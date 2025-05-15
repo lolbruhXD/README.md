@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lolbruhxd&label=Profile%20views&color=0e75b6&style=flat" alt="lolbruhxd" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lolbruhxd" alt="lolbruhxd" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/anormalgameryt1" target="blank"><img src="https://img.shields.io/twitter/follow/anormalgameryt1?logo=twitter&style=for-the-badge" alt="anormalgameryt1" /></a> </p>
 
 - 🔭 I’m currently working on **growing my presence on Leetcode**
